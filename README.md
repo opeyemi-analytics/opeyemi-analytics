@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Opeyemi, Glad to see you here 
 #### Data Professional
-![Data Professional](https://twitter.com/Hantyope/header_photo)
+![Data Professional](https://github.com/opeyemi-analytics/opeyemi-analytics/blob/7340b513521c7b4af19c4e80457d26ad8bbd859f/Opeyemi%20Twitter%20Header.png)
 
 I'm Opeyemi Akingbohungbe, a data professional with competencies in Data Analytics, Business analytics, and Business Intelligence. I am into creating dashboards, reports, and performance insights.
 
